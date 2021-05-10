@@ -1,4 +1,6 @@
-# component-vue-milionaire
+# Component-vue-milionaire
+
+![ezgif com-gif-maker](https://github.com/davide-bibbo93/component-vue-milionaire/blob/master/ezgif-2-e07d7118ebc7.gif)
 
 ### Milestone 1:
 
